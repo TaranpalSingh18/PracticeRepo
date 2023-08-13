@@ -3,8 +3,6 @@ using namespace std;
 int main(){
     //for (int i=-99; i < 10; i++)
     //{
-        /* code */
-
     //cout<<i<<endl;
     //i;
     //}   
